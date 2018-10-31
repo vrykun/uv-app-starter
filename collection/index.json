@@ -1,0 +1,148 @@
+{
+  "id": "https://vrykun.github.io/uv-app-starter/collection/index.json",
+  "type": "Manifest",
+  "items": [
+    {
+      "type": "Sequence",
+      "items": [
+        {
+          "id": "https://vrykun.github.io/uv-app-starter/collection/index.json/canvas/0",
+          "type": "Canvas",
+          "items": [
+            {
+              "id": "https://vrykun.github.io/uv-app-starter/collection/index.json/canvas/0/annotationpage/0",
+              "type": "AnnotationPage",
+              "items": [
+                {
+                  "id": "https://vrykun.github.io/uv-app-starter/collection/index.json/canvas/0/annotation/0",
+                  "type": "Annotation",
+                  "motivation": "painting",
+                  "body": {
+                    "id": "https://vrykun.github.io/uv-app-starter/collection/_1/1.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "label": {
+                      "@none": [
+                        "Page 1"
+                      ]
+                    }
+                  },
+                  "target": "https://vrykun.github.io/uv-app-starter/collection/index.json/canvas/0"
+                }
+              ]
+            }
+          ],
+          "label": {
+            "@none": [
+              "Page 1"
+            ]
+          },
+          "metadata": [
+            {
+              "label": {
+                "@none": [
+                  "Notebook"
+                ]
+              },
+              "value": {
+                "@none": [
+                  1
+                ]
+              }
+            },
+            {
+              "label": {
+                "@none": [
+                  "Page"
+                ]
+              },
+              "value": {
+                "@none": [
+                  1
+                ]
+              }
+            }
+          ],
+          "thumbnail": [
+            {
+              "id": "https://vrykun.github.io/uv-app-starter/collection/_1/thumb.jpeg",
+              "type": "Image"
+            }
+          ]
+        },
+        {
+          "id": "https://vrykun.github.io/uv-app-starter/collection/index.json/canvas/1",
+          "type": "Canvas",
+          "items": [
+            {
+              "id": "https://vrykun.github.io/uv-app-starter/collection/index.json/canvas/1/annotationpage/0",
+              "type": "AnnotationPage",
+              "items": [
+                {
+                  "id": "https://vrykun.github.io/uv-app-starter/collection/index.json/canvas/1/annotation/0",
+                  "type": "Annotation",
+                  "motivation": "painting",
+                  "body": {
+                    "id": "https://vrykun.github.io/uv-app-starter/collection/_cover/vergne1-cover.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "label": {
+                      "@none": [
+                        "Notebook 1 front"
+                      ]
+                    }
+                  },
+                  "target": "https://vrykun.github.io/uv-app-starter/collection/index.json/canvas/1"
+                }
+              ]
+            }
+          ],
+          "label": {
+            "@none": [
+              "Notebook 1 front"
+            ]
+          },
+          "metadata": [
+            {
+              "label": {
+                "@none": [
+                  "Description"
+                ]
+              },
+              "value": {
+                "@none": [
+                  "front cover of H. Vergne Notebook 1"
+                ]
+              }
+            }
+          ],
+          "thumbnail": [
+            {
+              "id": "https://vrykun.github.io/uv-app-starter/collection/_cover/thumb.jpeg",
+              "type": "Image"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "label": {
+    "@none": [
+      "Henri Vergne Notebooks"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "@none": [
+          "Description"
+        ]
+      },
+      "value": {
+        "@none": [
+          "Notebooks of Henri Vergne"
+        ]
+      }
+    }
+  ]
+}
